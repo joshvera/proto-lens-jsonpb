@@ -60,4 +60,4 @@ library
 
 source-repository head
   type: git
-  location: https://github.com/tclem/proto-lens-jsonpb
+  location: https://github.com/joshvera/proto-lens-jsonpb
